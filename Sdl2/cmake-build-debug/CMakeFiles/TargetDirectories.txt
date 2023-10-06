@@ -1,0 +1,3 @@
+/Users/herjus/Repositories/C_playground/Sdl2/cmake-build-debug/CMakeFiles/Sdl2.dir
+/Users/herjus/Repositories/C_playground/Sdl2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/herjus/Repositories/C_playground/Sdl2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
