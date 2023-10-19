@@ -1,0 +1,3 @@
+/Users/herjus/Repositories/C_playground/viktor/cmake-build-debug/CMakeFiles/viktor.dir
+/Users/herjus/Repositories/C_playground/viktor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/herjus/Repositories/C_playground/viktor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
